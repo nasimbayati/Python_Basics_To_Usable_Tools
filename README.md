@@ -1,4 +1,4 @@
-# python-basics-to-usable-tools
+# Python_Basics_To_Usable_Tools
 
 A tidy collection of beginner-friendly Python utilities turned into actually useful, runnable tools. 
 Each utility has a small CLI, examples, and saves outputs to `out/`. 
